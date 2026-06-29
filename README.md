@@ -98,4 +98,4 @@ python expense_tracker.py
 
 ## 👩‍💻 Author
 
-**Toshi Rajput**
+**Tarasha**
